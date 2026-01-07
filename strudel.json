@@ -5,5 +5,5 @@
   "ecotone": "ecotone/ecotone.wav",
   "technologic": "technologic/technologic_vox.wav",
   "forget": "forget/forget.wav",
-  "whatUneed": ["whatUneed/beat.wav", "whatUneed/noise.wav", "whatUneed/vox.wav"]
+  "whatuneed": ["whatuneed/beat.wav", "whatuneed/noise.wav", "whatuneed/vox.wav"]
 }
