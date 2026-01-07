@@ -1,13 +1,9 @@
 {
   "_base": "https://raw.githubusercontent.com/algorave-dave/samples/main/",
-  "spilltab": "spilltab/spilltab.wav",
   "cocaina": "cocaina/cocaina.wav",
-  "trial": "trial/forget.wav",
   "overgame": "overgame/overgame.wav",
-  "giveittome": ["giveittome/ah.wav", "giveittome/chorus.wav"],
   "ecotone": "ecotone/ecotone.wav",
   "technologic": "technologic/technologic_vox.wav",
   "forget": "forget/forget.wav",
-  "hard_refresh": ["hard_refresh/prechorus.wav", "hard_refresh/verse1.wav", "hard_refresh/verse2.wav"],
-  "hello_world": "hello_world/main3.wav"
+  "whatUneed": ["whatUneed/beat.wav", "whatUneed/noise.wav", "whatUneed/vox.wav"]
 }
